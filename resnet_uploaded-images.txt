@@ -1,0 +1,17 @@
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = resnet 
+ dogfile = dognames.txt
+
+Pet Image Label Dictionary has 40 key-value pairs.
+Below are 10 of them:
+ 1 key:       Boston_terrier_02303.jpg  label:             boston terrier
+ 2 key:       Boston_terrier_02259.jpg  label:             boston terrier
+ 3 key:            Dalmatian_04017.jpg  label:                  dalmatian
+ 4 key:     Golden_retriever_05182.jpg  label:           golden retriever
+ 5 key:              Basenji_00974.jpg  label:                    basenji
+ 6 key:  Miniature_schnauzer_06884.jpg  label:        miniature schnauzer
+ 7 key:               Poodle_07927.jpg  label:                     poodle
+ 8 key:           Great_dane_05320.jpg  label:                 great dane
+ 9 key:       Great_pyrenees_05435.jpg  label:             great pyrenees
+10 key:        great_horned_owl_02.jpg  label:           great horned owl
